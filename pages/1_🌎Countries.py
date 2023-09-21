@@ -9,7 +9,7 @@ import streamlit as st
 from streamlit_folium import folium_static
 from PIL import Image
 
-st.set_page_config(page_title='🌎aises', page_icon='🌎', layout='wide')
+st.set_page_config(page_title='Paises', page_icon='🌎', layout='wide')
 
 
 # ============================================================
