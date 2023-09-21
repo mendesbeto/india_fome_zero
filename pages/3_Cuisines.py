@@ -150,8 +150,7 @@ df1 = clean_code(df)
 #==============================================
 st.header('🍽️Visão Colinária!')
 
-image_path = 'PRATO.png'
-image = Image.open( 'PRATO.png' )
+image = Image.open( 'prato_vasio.png' )
 st.sidebar.image(image, width=120)
 
 st.sidebar.markdown('# 🍴 Fome Zero')
