@@ -155,6 +155,7 @@ st.sidebar.image(image, width=120)
 
 st.sidebar.markdown('# 🍴 Fome Zero')
 st.sidebar.markdown('''___''')
+st.sidebar.markdown('### Filtro')
 
 paises = st.sidebar.multiselect(
     "Selecionar País",
