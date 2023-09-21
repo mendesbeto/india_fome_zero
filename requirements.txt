@@ -1,5 +1,5 @@
 altair==5.0.1
-from folium==0.14.0
+folium==0.14.0
 haversine==2.8.0
 image==1.5.33
 inflection==0.5.1
