@@ -9,12 +9,12 @@ link: https://indiafomezero.streamlit.app/
 
 ## Technologies Used:
 
-  `Python:` Main programming language used for developing data analysis scripts and implementing algorithms.
-  `Pandas:` Python library for data manipulation and analysis, enabling efficient handling of large datasets.
-  `NumPy:` Library for numerical computation in Python, used for mathematical operations and array manipulation.
-  `Matplotlib:` Python plotting library used for data visualization through graphs and figures.
-  `Jupyter Notebook:` Interactive environment used for developing and documenting notebooks containing data analyses and visualizations.
-  `Git:` Version control system used for managing the source code and collaborating on project development.
+  `Python:` Main programming language used for developing data analysis scripts and implementing algorithms.</br>
+  `Pandas:` Python library for data manipulation and analysis, enabling efficient handling of large datasets.</br>
+  `NumPy:` Library for numerical computation in Python, used for mathematical operations and array manipulation.</br>
+  `Matplotlib:` Python plotting library used for data visualization through graphs and figures.</br>
+  `Jupyter Notebook:` Interactive environment used for developing and documenting notebooks containing data analyses and visualizations.</br>
+  `Git:` Version control system used for managing the source code and collaborating on project development.</br>
   These technologies were chosen to provide robust and efficient data analysis, enabling the development of targeted solutions to combat hunger in India.
 
 Se precisar de algo mais, é só avisar! 😊
